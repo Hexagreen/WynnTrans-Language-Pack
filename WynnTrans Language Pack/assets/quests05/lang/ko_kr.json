@@ -1,0 +1,75 @@
+{
+	"wytr.quest.AGraveMistake":"A Grave Mistake",
+
+	"wytr.quest.TheMaidenTower":"The Maiden Tower",
+	"wytr.mobName.TowerMaiden":"Tower Maiden",
+	"wytr.mobName.UrnKeeper":"Urn Keeper",
+
+	"wytr.quest.CorruptedBetrayal":"Corrupted Betrayal",
+	"wytr.mobName.SolidifiedSlime":"Solidified Slime",
+	"wytr.mobName.SlykaarIncantation":"Slykaar Incantation",
+	"wytr.mobName.NewlyformedSlime":"Newly-formed Slime",
+	"wytr.mobName.MutatedSlimeMonster":"Mutated Slime Monster",
+
+	"wytr.quest.CropFailure":"Crop Failure",
+	"wytr.mobName.AquiferSilkworm":"Aquifer Silkworm",
+	"wytr.mobName.BiohazardAmalgamate":"Biohazard Amalgamate",
+	"wytr.mobName.WaterySludge":"Watery Sludge",
+	"wytr.mobName.DigestedMuck":"Digested Muck",
+	"wytr.mobName.SloughingSludge":"Sloughing Sludge",
+
+	"wytr.quest.JungleFever":"Jungle Fever",
+	"wytr.mobName.DetlasGolem":"Detlas Golem",
+	"wytr.mobName.EmeraldGolem":"Emerald Golem",
+
+	"wytr.quest.DeathWhistle":"Death Whistle",
+	"wytr.mobName.ConfusedWitch":"Confused Witch",
+	"wytr.mobName.FallingRock":"Falling Rock",
+
+	"wytr.quest.MasterPiece":"Master Piece",
+	"wytr.mobName.BlackMamba":"Black Mamba",
+	"wytr.mobName.TribalCrocodile":"Tribal Crocodile",
+	"wytr.mobName.CrestedStallion":"Crested Stallion",
+	"wytr.mobName.HungryAlligator":"Hungry Alligator",
+	"wytr.mobName.BlueKrait":"Blue Krait",
+	"wytr.mobName.AlligatorLeader":"Alligator Leader",
+
+	"wytr.quest.RealmofLightI-TheWormHoles":"Realm of Light I - The Worm Holes",
+	"wytr.mobName.WolfSpider":"Wolf Spider",
+	"wytr.mobName.MudArachnid":"Mud Arachnid",
+	"wytr.mobName.MotherGrootslang":"Mother Grootslang",
+	"wytr.mobName.DecayedBeetle":"Decayed Beetle",
+	"wytr.mobName.Earthworm":"Earthworm",
+	"wytr.mobName.SlimySkin":"Slimy Skin",
+
+	"wytr.quest.TheShadowoftheBeast":"The Shadow of the Beast",
+	"wytr.mobName.Smallfoot":"Smallfoot",
+	"wytr.mobName.Bigfoot":"Bigfoot",
+	"wytr.mobName.EscapedCow":"Escaped Cow",
+	"wytr.mobName.CaveBat":"Cave Bat",
+
+	"wytr.quest.ZhightIsland":"Zhight Island",
+
+	"wytr.quest.WynnExcavationSiteC":"WynnExcavation Site C",
+	"wytr.mobName.LimoniticArachnid":"Limonitic Arachnid",
+	"wytr.mobName.LavaSpawn":"Lava Spawn",
+	"wytr.mobName.MagmafiedSpirit":"Magmafied Spirit",
+	"wytr.mobName.WynnExcavationGuard":"WynnExcavation Guard",
+
+	"wytr.quest.ThePassage":"The Passage",
+
+	"wytr.quest.AnIronHeartPartII":"An Iron Heart Part II",
+	"wytr.mobName.UnfulfilledGolem":"Unfulfilled Golem",
+	"wytr.mobName.FactorySentinel":"Factory Sentinel",
+	"wytr.mobName.SubmissionSentry":"Submission Sentry",
+
+	"wytr.quest.TheOrderoftheGrook":"The Order of the Grook",
+	"wytr.mobName.EnragedUndead":"Enraged Undead",
+	"wytr.mobName.DoorGuardian":"Door Guardian",
+	"wytr.mobName.AnimatedGuardStatue":"Animated Guard Statue",
+	"wytr.mobName.MagicalGuard":"Magical Guard",
+	"wytr.mobName.ZombifiedCow":"Zombified Cow",
+	"wytr.mobName.Student":"Student",
+	"wytr.mobName.ResurrectedCow":"Resurrected Cow",
+	"wytr.mobName.WeakenedDernCreature":"Weakened Dern Creature"
+}

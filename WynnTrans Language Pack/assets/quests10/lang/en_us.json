@@ -1,0 +1,23 @@
+{
+	"wytr.quest.TheOlmicRune":"The Olmic Rune",
+	"wytr.tooltip.contentStatus.f9b6":"Unlocks Tol Rune Altar",
+	"wytr.mobName.FloatingStalker":"Floating Stalker",
+	"wytr.mobName.SpriteGuardian":"Sprite Guardian",
+	"wytr.mobName.EyedShade":"Eyed Shade",
+	"wytr.mobName.Silencer":"Silencer",
+	"wytr.mobName.SpikeShatterer":"Spike Shatterer",
+	"wytr.mobName.Blinder":"Blinder",
+	"wytr.mobName.CrawlingDeath":"Crawling Death",
+	"wytr.mobName.FuelSprite":"Fuel Sprite",
+	"wytr.mobName.Darkness":"Darkness",
+
+	"wytr.quest.AJourneyBeyond":"A Journey Beyond",
+	"wytr.tooltip.contentStatus.afbd":"Unlocks Silent Expanse",
+	
+	"wytr.quest.AJourneyFurther":"A Journey Further",
+
+	"wytr.quest.PointofNoReturn":"Point of No Return",
+
+	"wytr.quest.AHuntersCalling":"A Hunter's Calling",
+	"wytr.tooltip.contentStatus.10bd":"Unlocks Hunted Mode"
+}

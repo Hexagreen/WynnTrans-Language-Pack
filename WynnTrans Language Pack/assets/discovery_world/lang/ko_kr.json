@@ -1,0 +1,342 @@
+{
+    "wytr.area.Ragni":"라그니",
+    
+	"wytr.area.EmeraldTrail":"에메랄드 트레일",
+    "wytr.area.EmeraldTrail.desc":"니블라 숲을 통해 라그니와\n윈 지역의 중앙 도시, 데틀라스를 잇는 길입니다.",
+    
+	"wytr.area.KatoaRanch":"카토아 목장",
+    
+	"wytr.area.NivlaWoods":"니블라 숲",
+    "wytr.area.NivlaWoods.desc":"이 숲은 거대하고 변이된 거미들에게\n점령된지 오래되었습니다.\n데틀라스로 향하는 신출내기 모험가들에게는\n거대하고 위험한 난관입니다.",
+    
+	"wytr.area.AlekinVillage":"알레킨 마을",
+    "wytr.area.AlekinVillage.desc":"니블라 숲의 나무들로 가려진 작은 마을입니다.\n라그니와 데틀라스의 중앙에서\n여행자들의 쉼터로 기능하고 있습니다.",
+    
+	"wytr.area.DetlasSuburbs":"데틀라스 교외",
+    "wytr.area.DetlasSuburbs.desc":"안정적인 식량 공급을 위해 라그니와\n데틀라스 군에게 엄중히 보호받는 지역입니다.",
+    
+	"wytr.area.Detlas":"데틀라스",
+    
+	"wytr.area.Maltic":"말틱",
+    "wytr.area.Maltic.desc":"윈 지역에 빌리저들이 처음으로 지은 마을입니다.\n마을 해안에는 100년 전에 \n난파한 배가 남아있습니다.",
+    
+	"wytr.area.Ternaves":"터네이브스",
+    
+	"wytr.area.BlackRoad":"검은 길",
+    "wytr.area.BlackRoad.desc":"터네이브스와 인근의 광산으로 이어지는\n길입니다. 소와 버섯의 기묘한 잡종과\n수상한 과학자가 살고있습니다.",
+    
+	"wytr.area.PigmensRavine":"피그맨의 협곡",
+    "wytr.area.PigmensRavine.desc":"커다란 미로 구조의 이 협곡은 피그맨들의 영역입니다.\n혐오스런 외형의 반인반돈 괴수들은\n길을 잃고 들어온 나약한 모험가들을 노리고 있습니다.",
+    
+	"wytr.area.Elkurn":"엘쿠른",
+    "wytr.area.Elkurn.desc":"포탈에 매우 인접한 이 마을은 재난 속에서\n어떻게든 살아남았습니다. 두 가지의 진기한\n마법 현상 사이에 위치한 마을이기에\n과학자들이 모여드는 마을입니다.",
+    
+	"wytr.area.BearZoo":"곰 동물원",
+    
+	"wytr.area.RoosterIsland":"루스터 섬",
+    "wytr.area.RoosterIsland.desc":"이 달걀 모양의 작은 섬에는 닭을 너무나도\n사랑하는 주민 하나만이 살고있습니다.\n무슨 일이었는지 몰라도 밥이 이 섬에\n방문했었다는 소문이 있습니다.",
+    
+	"wytr.area.DurumIsles":"듀럼 제도",
+    
+	"wytr.area.BovineBarn":"보빈 외양간",
+    
+	"wytr.area.Nemract":"넴랙",
+    
+	"wytr.area.AncientNemract":"고대 넴랙",
+    "wytr.area.AncientNemract.desc":"석재 도시 넴랙은 몇 백 년 전에 있던\n언데드 군세의 침략으로 잔해만 남았습니다.\n이곳에는 이제 그 당시의 주민이었던\n사람들의 시체들만 살고있습니다.",
+    
+	"wytr.area.Savannah":"사바나",
+    "wytr.area.Savannah.desc":"야생 오셀롯이 잔뜩 살고있는 알뮈 사막으로의\n연결지역입니다. 산자락에 마을이 있지만\n방문하는 사람은 몇 없습니다.",
+    
+	"wytr.area.Bremminglar":"브레밍글러",
+    
+	"wytr.area.AbandonedMines":"폐쇄된 광산",
+    
+	"wytr.area.TimeValley":"시간의 계곡",
+	"wytr.area.TimeValley.desc":"이 지역의 잔해는 포탈보다 오래전부터 존재했습니다.\n다른 곳과 다르게 흘러가는 시간 현상과\n휴먼이 아닌 자들이 지은게 분명한 건물의 비밀을\n지금까지 알고있는 사람은 단 한 명뿐입니다.",
+    
+	"wytr.area.TempoTown":"템포 마을",
+    
+	"wytr.area.SanctuaryBridge":"생추어리 브릿지",
+    
+	"wytr.area.Selchar":"셀차",
+    "wytr.area.Selchar.desc":"난세가 잠잠해진 개문후 970년에 설립된 이 마을은\n가벨과 윈 지역의 다리가 되었습니다.\n두 지역의 위험과 멀리 떨어진 이 무역마을은\n다른 곳보다 안전한 생활을 누리고 있습니다.",
+    
+	"wytr.area.SeavaleReef":"산호초 계곡",
+    
+	"wytr.area.RottenPassage":"썩어든 통로",
+    
+	"wytr.area.RootsofCorruption":"커럽션 뿌리",
+    "wytr.area.RootsofCorruption.desc":"천 년 전, 에메랄드 광부들이 신비한 포탈을\n발견했습니다. 그들은 모르는 새에\n지역 전체를 수 세기의 파멸로 이끌었습니다.\n그 파멸의 힘을 우리는 커럽션이라 부릅니다.",
+    
+	"wytr.area.PiratesBay":"해적의 만",
+    "wytr.area.PiratesBay.desc":"거대한 선체가 완전히 부서져 절벽과 한 몸이\n되어 있습니다. 아직도 이곳에 보물이\n숨겨져있다고 말하는 사람도 있습니다.",
+    
+	"wytr.area.Almuj":"알뮈",
+    
+	"wytr.area.AlmujGreatRiver":"알뮈 대하",
+    "wytr.area.AlmujGreatRiver.desc":"척박한 주변 환경에도 대지를 적시며\n수많은 식물을 품고있는 강입니다.\n라이멕 협곡으로 이어져 있습니다.",
+    
+	"wytr.area.WynnExcavationSiteA":"윈엑스카베이션 A 구역",
+    "wytr.area.WynnExcavationSiteA.desc":"윈엑스카베이션은 윈 지역의 역사를 파헤치는\n가벨 소재의 회사입니다. 이곳에서 그들은\n잃어버린 제국의 고대 무덤을 발굴하고 있습니다.",
+    
+	"wytr.area.InvadedBarracks":"빼앗긴 주둔지",
+    "wytr.area.InvadedBarracks.desc":"한때는 알뮈 군의 주둔지었지만 이제는\n반역자, 타칸 사령관에게 점령당했습니다.",
+    
+	"wytr.area.MageIsland":"마법사의 섬",
+    
+	"wytr.area.HalfMoonIsland":"반달 섬",
+    
+	"wytr.area.Rymek":"라이멕",
+    
+	"wytr.area.OwlTribe":"올빼미 부족",
+    "wytr.area.OwlTribe.desc":"올빼미 부족은 라이멕 협곡의 두\n원주민 부족 중 하나입니다. 독수리 부족과\n몇 년 동안 전쟁 중입니다.",
+    
+	"wytr.area.EagleTribe":"독수리 부족",
+    "wytr.area.EagleTribe.desc":"독수리 부족은 라이멕 협곡의 두\n원주민 부족 중 하나입니다. 올빼미 부족과\n몇 년 동안 전쟁 중입니다.",
+    
+	"wytr.area.IslesofFiction":"픽션 아일랜드",
+    
+	"wytr.area.AbandonedLumberYard":"버려진 벌목장",
+    "wytr.area.AbandonedLumberYard.desc":"몇 백 년 전, 이 벌목장에서 일하던 사람들은\n전쟁으로 죽었습니다. 이 땅이 얼어붙고 난 뒤\n지금까지도 주변을 지나는 사람들을 사냥하고 있습니다.",
+    
+	"wytr.area.GavelGate":"가벨 게이트",
+    "wytr.area.GavelGate.desc":"이 거대한 문은 가벨 지역으로 입장하는\n통로입니다. 문 너머는 석영 도시\n레비가로 이어집니다.",
+    
+	"wytr.area.Llevigar":"레비가",
+    
+	"wytr.area.Nesaak":"네삭",
+    
+	"wytr.area.SunriseCanyon":"햇빛이 스며든 계곡",
+    
+	"wytr.area.Bucie":"부시",
+    
+	"wytr.area.KarocQuarry":"카록 채석장",
+    
+	"wytr.area.RiverSage":"세이지 강",
+    
+	"wytr.area.Lusuco":"루수코",
+    
+	"wytr.area.TowerofAscension":"승계의 탑",
+    "wytr.area.TowerofAscension.desc":"승계의 탑은 윈 지역에서 제일 높은 탑으로, \n최고의 전사마저도 긴장을 놓을 수 없는\n위협적인 도전이 준비되어있는 곳입니다.",
+    
+	"wytr.area.NorthLusuco":"루수코 북부",
+    
+	"wytr.area.IceIslands":"설산 제도",
+    "wytr.area.IceIslands.desc":"뱃사람들의 나라인 이 섬에서는\n본토에서의 진짜 전쟁에 신경쓰지 않고\n수년 간 전쟁을 벌이고 있습니다.",
+    
+	"wytr.area.PrisonofSouls":"영혼을 가두는 감옥",
+    
+	"wytr.area.WynnExcavationSiteB":"윈엑스카베이션 B 구역",
+    "wytr.area.WynnExcavationSiteB.desc":"윈엑스카베이션사가 B 구역에서 무엇을 발굴하려는\n지는 아무도 모르지만, 향간에는 고대의 매우 강력한\n무언가를 발굴한다는 소문이 돌고 있습니다.",
+    
+	"wytr.area.TheHouseofTwain":"트웨인 가의 저택",
+    "wytr.area.TheHouseofTwain.desc":"한때는 윈을 수호하는 최고의 천재들이 살던\n저택이었지만, 이제는 유령에 씌인\n폐허일 뿐입니다.",
+    
+	"wytr.area.IbojuVillage":"이보쥬 마을",
+    
+	"wytr.area.TheGreatBridge":"그레이트 브릿지",
+    
+	"wytr.area.Olux":"오룩스",
+    
+	"wytr.area.WormHoles":"웜홀",
+    
+	"wytr.area.OluxLumberYard":"오룩스 벌목장",
+    
+	"wytr.area.QuartzMansion":"석영 저택",
+    
+	"wytr.area.BobsTomb":"밥의 무덤",
+    "wytr.area.BobsTomb.desc":"밥이 실종되고 나서 1년 후인 개문후 985년,\n밥의 안식처와 관련된 무덤이 발견되었습니다.",
+    
+	"wytr.area.ZhightIsland":"자이트 섬",
+    
+	"wytr.area.Troms":"트롬스",
+    
+	"wytr.area.TromsCastle":"트롬스 성",
+    
+	"wytr.area.SkiensIsland":"스키엔 섬",
+    
+	"wytr.area.VolcanicIsles":"활화산섬",
+    
+	"wytr.area.PlagueLaboratory":"역병연구소",
+    
+	"wytr.area.NestoftheGrootslangs":"그루츨랭의 둥지",
+    
+	"wytr.area.EntamisVillage":"엔타미스 마을",
+    
+	"wytr.area.FountainofYouth":"젊음의 샘",
+    
+	"wytr.area.DarkForestGate":"다크 숲 게이트",
+    
+	"wytr.area.PirateCove":"해적 해만",
+    
+	"wytr.area.MaroPeaks":"마로 산악지대",
+    
+	"wytr.area.TribalSanctuary":"부족의 성역",
+    
+	"wytr.area.IronGolemFactory":"철 골렘 공장",
+    
+	"wytr.area.DelnarManor":"델나 장원",
+    
+	"wytr.area.CenterworldFortress":"센터월드 요새",
+    
+	"wytr.area.Gelibord":"젤리보드",
+    
+	"wytr.area.CastleDullahan":"듀라한 성",
+    
+	"wytr.area.MagmastreamCore":"마그마스트림 코어",
+    
+	"wytr.area.Taproot":"탭루트",
+    
+	"wytr.area.Efilim":"에필림",
+    
+	"wytr.area.LightForestGate":"라이트 숲 게이트",
+    "wytr.area.LightForestGate.desc":"이 문을 통과하면 찬란히 빛나는 라이트 숲의\n풍경이 펼쳐집니다. 다크 숲과는 다르게\n이곳은 아직 디케이의 영향을 받지 않아\n아름다운 모습을 유지하고 있습니다.",
+    
+	"wytr.area.TheShiar":"샤아르",
+    
+	"wytr.area.CaritatMansion":"카리타트 저택",
+    
+	"wytr.area.LazarusPit":"라자루스 구덩이",
+    
+	"wytr.area.ChallengeoftheBlades":"블레이드의 도전",
+    
+	"wytr.area.AltarofSanctification":"성역화의 제단",
+    
+	"wytr.area.TempleofLegends":"전설의 신전",
+    
+	"wytr.area.ArenaoftheLegends":"전설들의 투기장",
+    
+	"wytr.area.TheForgery":"'위작'",
+    
+	"wytr.area.WynnExcavationSiteD":"윈엑스카베이션 D 구역",
+    
+	"wytr.area.Cinfras":"신프라스",
+    
+	"wytr.area.TheGuildHall":"길드 회관",
+    
+	"wytr.area.LetvusAirbase":"레트부스 공군기지",
+    
+	"wytr.area.SilverbullCompanyHeadquarters":"실버불 무역회사 본사",
+    
+	"wytr.area.LakeGylia":"길리아 호수",
+    
+	"wytr.area.MonumenttoSiegfried":"시그프리드 기념상",
+    
+	"wytr.area.Lexdale":"렉스데일",
+    
+	"wytr.area.LexdalePenitentiary":"렉스데일 교도소",
+    
+	"wytr.area.HouseofTalor":"탈로르의 집",
+    
+	"wytr.area.FaltachManor":"팔타흐 장원",
+    
+	"wytr.area.DeadIsland":"죽음의 섬",
+    
+	"wytr.area.TheGatewaytoLight":"라이트로 가는 문",
+    
+	"wytr.area.TheQiraHive":"키라의 둥지",
+	"wytr.area.TheQiraHive.desc":"이 적층형의 둥지는 불가사의한 키라의\n강력한 피조물과의 도전자를 기다리고 있습니다.",
+    
+	"wytr.area.OzothsSpire":"오조스의 첨탑",
+    "wytr.area.OzothsSpire.desc":"강렬한 불길에 휩싸인 이 첨탑은\n드래곤 오조스의 둥지로 향하는 험난한\n길의 역할을 하고 있습니다.",
+    
+	"wytr.area.Thanos":"타노스",
+    
+	"wytr.area.GyliaWatchTower":"길리아 파수탑",
+    "wytr.area.GyliaWatchTower.desc":"200년 전, 거트 전쟁 후에 지어진 파수탑입니다.\n길리아 파수대가 기지로 삼아, 또 다른 충돌을\n막기 위해 거트를 주시하고 있습니다.",
+    
+	"wytr.area.GertCamp":"거트 캠프",
+    
+	"wytr.area.CorkusCity":"코르쿠스 시",
+    
+	"wytr.area.AldoreiValley":"알도레이 계곡",
+    
+	"wytr.area.AldoreiTown":"알도레이 마을",
+    
+	"wytr.area.OrphionsNexusofLight":"오르피온의 라이트 넥서스",
+    
+	"wytr.area.KitriosBarracks":"키트리오스 주둔지",
+    "wytr.area.KitriosBarracks.desc":"신프라스의 군대가 배치된 주둔지입니다.\n최근들어 장군의 동향이 어딘가\n수상합니다...",
+    
+	"wytr.area.Thesead":"디시드",
+    "wytr.area.Thesead.desc":"디시드는 가벨 지역에서 가장 고립되어있는 도시지만,\n고유의 석탄 산업은 번창하고 있습니다.\n그러나 얼마 전부터 석탄 광산에\n수상한 가스가 쌓이고 있습니다.",
+    
+	"wytr.area.BantisuAirTemple":"반티수 공중 사원",
+    
+	"wytr.area.CrystalFalls":"크리스탈 폭포",
+    "wytr.area.CrystalFalls.desc":"수백 명의 제자를 가르친 현명한 스승,\n미야기 선생의 도장의 풍경을 장식하는\n아름다운 폭포입니다.",
+    
+	"wytr.area.FallenFactory":"무너진 공장",
+    
+	"wytr.area.AvosTerritory":"아보스 영역",
+    
+	"wytr.area.Relos":"렐로스",
+    
+	"wytr.area.JofashDocks":"조파시 부두",
+    
+	"wytr.area.JofashTunnel":"조파시 터널",
+    
+	"wytr.area.Eltom":"엘톰",
+	"wytr.area.Eltom.desc":"엘톰은 가벨 지역 내에서 휴먼으로만 구성된 유일한 도시입니다.\n휴먼이 가벨 내에서 정착하는 것은 금지되어 있기 때문에\n외부인이 알지 못하는 곳에 숨겨져있습니다.",
+    
+	"wytr.area.MoltenHeightsGate":"몰튼 고산 게이트",
+    
+	"wytr.area.DragonSkeleton":"드래곤 해골",
+    
+	"wytr.area.FreezingHeights":"얼어붙은 봉우리",
+    
+	"wytr.area.Maex":"마엑스",
+    
+	"wytr.area.Rodoroc":"로도록",
+    
+	"wytr.area.GeyserPit":"간헐천 구덩이",
+    
+	"wytr.area.DeathsRealm":"죽음의 영역",
+    
+	"wytr.area.LegendaryIsland":"레전더리 아일랜드",
+	"wytr.area.LegendaryIsland.desc":"이 세상의 정상에 족적을 남기고자하는 강자들을\n시험하는 레전더리 챌린지의 땅입니다. 섬의 이름은\n설계자인 괴짜 박사 레전더리의 이름에서 왔습니다.",
+    
+	"wytr.area.KandonBeda":"칸돈-베다",
+	"wytr.area.KandonBeda.desc":"절벽의 한 면에 세워진 칸돈-베다는\n공중 수송에 특화된 마을입니다. 이 땅의 역사를\n탐구하고자하는 사람들을 위한 도서관도 있죠.",
+    
+	"wytr.area.RaidersPort":"레이더들의 항구",
+    
+	"wytr.area.UpperMoltenHeights":"몰튼 고원 상부",
+    
+	"wytr.area.DogunsRetreat":"Dogun's Retreat",
+    
+	"wytr.area.AerieoftheRecluse":"Aerie of the Recluse",
+    
+	"wytr.area.Ahmsord":"암소드",
+    
+	"wytr.area.TheCanyonColossus":"협곡의 거상",
+    
+	"wytr.area.??????????":"??????????",
+    
+	"wytr.area.TheMoon":"The Moon",
+    
+	"wytr.area.TownofLutho":"루토 마을",
+    
+	"wytr.area.RuinedOlmicCity":"폐허가 된 올름 시",
+    
+	"wytr.area.OlmicCathedral":"올름 성당",
+    
+	"wytr.area.EyeballForest":"눈깔 숲",
+    
+	"wytr.area.CarnivorousCreature":"Carnivorous Creature",
+    
+	"wytr.area.ToxicWastes":"Toxic Wastes",
+    
+	"wytr.area.VoidValley":"공허 계곡",
+    
+	"wytr.area.DarkObelisk":"검은 오벨리스크",
+    
+	"wytr.area.TheEldritchOutlook":"The Eldritch Outlook",
+    
+	"wytr.area.PortaltoDern":"던으로 향하는 문",
+    
+	"wytr.area.???":"???",
+    
+	"wytr.area.BottomlessPit":"바닥없는 구덩이"
+}

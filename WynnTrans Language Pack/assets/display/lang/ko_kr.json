@@ -1,0 +1,89 @@
+{
+	"wytr.display.dodged":"회피",
+	
+	"wytr.display.combatXp":"+%1$s 경험치",
+	"wytr.display.combatXp.shared":"[공유됨]",
+	"wytr.display.professionXp":"+%1$s %2$s 경험치",
+	
+	"wytr.display.boothSetup":"클릭§7하여 노점 설치",
+	"wytr.display.boothTitle":"%1$s§7의 노점",
+	
+	"wytr.display.crateOpen":"클릭하여 열기",
+	"wytr.display.crateReward":"%1$s 등급",
+	
+	"wytr.display.summons":"%1$s의 %2$s",
+	"wytr.display.summons.duration":"%1$s의 %2$s\n%3$s",
+	"wytr.display.mobTotem":"%1$s의 §6§l몹 토템\n%2$s",
+	"wytr.display.archerTrap":"배치 중...",
+	"wytr.display.archerTrap.charge":"§7피해량 §r%1$s",
+	"wytr.display.shamanTotem":"%1$s의 토템\n%2$s",
+	
+	"wytr.display.lootChest":"보물 상자 %1$s",
+	"wytr.display.lockedChest":"잠긴 %1$s",
+	"wytr.display.lockedChest.slayMob":"§c§l섬멸하세요!§r 몹 %1$s 처치",
+	"wytr.display.lockedChest.slayHead":"§c§l섬멸하세요!§r %1$s 처치",
+	"wytr.display.lockedChest.slayTarget":"§c§l섬멸하세요!§r %1$s %2$s 처치",
+	
+	"wytr.display.worldEvent.timer":"%1$s 후 시작",
+	"wytr.display.worldEvent.timeLeft":"%1$s 남음",
+	"wytr.display.worldEvent.leftTarget":"남은 목표: %1$s",
+	"wytr.display.41d39ed2088153b062ca97d41c7ee7ccbd7a4172":"준비하세요!",
+	"wytr.display.6410456144bf4aabad99684e27628c469b7047ca":"월드 이벤트 완료",
+	"wytr.display.8b9b0259a469821a1e228b9923fd3a449f9fd92a":"남은 목표 없음",
+	"wytr.display.41f5dd1200bc49d3e835ef3f506371648948de3a":"이벤트 보상\n%s",
+	"wytr.display.41f5dd1200bc49d3e835ef3f506371648948de3a.1_db60":"잊지 말고 받아가세요!",
+	"wytr.display.8f387a480b70e90712749fb525d53fce920c8eb8":"월드 이벤트 실패",
+	"wytr.display.c7d00994e257548d17a1a21ac2bb892999d06232":"남은 생존자가 없습니다",
+	
+	"wytr.display.caveProgress":"탐사도",
+	"wytr.display.caveComplete":"탐사 완료",
+	"wytr.display.caveQuality":"보상 품질",
+	"wytr.display.caveReward":"%1$s 탐사 보상\n§7클릭하여 수령",
+
+	"wytr.display.dungeon":"%1$s\n\n%2$s      권장 레벨: %3$s",
+	
+	"wytr.display.killCounter":"%2$s %1$s§b마리§r\n몹을 처치하여 계속 진행",
+
+	"wytr.display.raidKeeper.cost":"입장료: %1$s",
+	"wytr.display.rewardChest":"§f보상 갱신까지 %1$s\n\n§r§l클릭하여 미리보기",
+	
+	"wytr.display.62e99376ea6e22e3fe2946366a002df0359f4f8c":"도전 보상\n§7클릭하여 열기",
+	
+	"wytr.display.guildBanner.controlBy":"%1$s 에서 점령중",
+	
+	"wytr.display.tradeMarket":"거래소",
+	"wytr.display.tradeMarket.desc":"공개 거래소\n아이템 구매 및 판매",
+	"wytr.display.housingMaster":"하우징 마스터",
+	"wytr.display.housingMaster.desc":"건축용 블럭 구매\n하우징 관리",
+	"wytr.display.blacksmith.desc":"아이템 판매 및 수리",
+	"wytr.display.partyFinder.desc":"파티 탐색 및 레이드 대기열",
+	
+	"wytr.display.post.slay":"섬멸 의뢰",
+	"wytr.display.post.slay.req":"[전투 레벨 %1$s+]",
+	"wytr.display.post.gather":"채집 의뢰",
+	"wytr.display.post.gather.req":"[%1$s 레벨 %2$s+]",
+	
+	"wytr.display.gathering":"[%1$s]",	
+	"wytr.display.gathering.mining":"|||광물 캐는 중|||",
+	"wytr.display.gathering.chopping":"|||나무 베는 중|||",
+	"wytr.display.gathering.fishing":"|||낚시 하는 중|||",
+	"wytr.display.gathering.farming":"|||작물 수확 중|||",
+	"wytr.display.gatheringNode.getIngot":"좌클릭하여 주괴 채집",
+	"wytr.display.gatheringNode.getGem":"우클릭하여 보석 채집",
+	"wytr.display.gatheringNode.getWood":"좌클릭하여 목재 채집",
+	"wytr.display.gatheringNode.getPaper":"우클릭하여 종이 채집",
+	"wytr.display.gatheringNode.getString":"좌클릭하여 섬유 채집",
+	"wytr.display.gatheringNode.getGrains":"우클릭하여 곡물 채집",
+	"wytr.display.gatheringNode.getOil":"좌클릭하여 기름 채집",
+	"wytr.display.gatheringNode.getMeat":"우클릭하여 고기 채집",
+	
+	"wytr.display.craftingStation":"제작 스테이션",
+	"wytr.display.craftingStation.cooking":"음식",
+	"wytr.display.craftingStation.jeweling":"장신구",
+	"wytr.display.craftingStation.scribing":"스크롤",
+	"wytr.display.craftingStation.tailoring":"바지, 신발",
+	"wytr.display.craftingStation.weaponsmithing":"창, 단검",
+	"wytr.display.craftingStation.armouring":"투구, 흉갑",
+	"wytr.display.craftingStation.woodworking":"활, 지팡이, 주구",
+	"wytr.display.craftingStation.alchemism":"물약"
+}
