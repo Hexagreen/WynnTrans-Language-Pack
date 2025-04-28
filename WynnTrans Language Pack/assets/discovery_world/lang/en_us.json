@@ -1,0 +1,348 @@
+{
+	"wytr.area.Ragni":"Ragni",
+    
+	"wytr.area.EmeraldTrail":"Emerald Trail",
+	"wytr.area.EmeraldTrail.desc":"The trail through Nivla Woods to Detlas, the central\ncity of the Wynn Province.",
+    
+	"wytr.area.KatoaRanch":"Katoa Ranch",
+    
+	"wytr.area.NivlaWoods":"Nivla Woods",	
+	"wytr.area.NivlaWoods.desc":"This forest has been infested with giant, mutant\narachnids for countless years. They serve as the\ngreatest obstacle for adventurers on their way to\nDetlas.",
+    
+	"wytr.area.AlekinVillage":"Alekin Village",
+	"wytr.area.AlekinVillage.desc":"A small village hidden within the trees in Nivla Woods.\nIt acts as a respite for travelers, as the midpoint\nbetween Ragni and Detlas.",
+    
+	"wytr.area.DetlasSuburbs":"Detlas Suburbs",
+	"wytr.area.DetlasSuburbs.desc":"This area is heavily defended by the armies of Detlas\nand Ragni to ensure food production continues.",
+    
+	"wytr.area.Detlas":"Detlas",
+
+	"wytr.area.Maltic":"Maltic",
+	"wytr.area.Maltic.desc": "The first town founded by Villagers in the Wynn\nprovince. Maltic's beach is the site of a shipwreck\nthat crashed upon its shores 100 years ago.",
+    
+	"wytr.area.Ternaves":"Ternaves",
+	
+	"wytr.area.BlackRoad":"Black Road",
+	"wytr.area.BlackRoad.desc":"This road leads to the town of Ternaves and its nearby\nmine. It is inhabited by strange mushroom-cow hybrids,\nand a mysterious scientist.",
+    
+	"wytr.area.PigmensRavine":"Pigmen's Ravine",
+	"wytr.area.PigmensRavine.desc":"This massive, maze-like ravine is home to the Pigmen, a\nspecies of half-pig, half-human abominations that feast\non any weak adventurer who happens to stumble inside.",
+    
+	"wytr.area.Elkurn":"Elkurn",
+	"wytr.area.Elkurn.desc":"Despite its proximity to the portal, this quaint town\nhas somehow managed to survive. Its placement near two\nseparate magical phenomena has led to an influx of\nscientific minds to the area.",
+    
+	"wytr.area.BearZoo":"Bear Zoo",
+
+	"wytr.area.RoosterIsland":"Rooster Island",
+	"wytr.area.RoosterIsland.desc":"This egg-shaped island is home to a single resident, a\nfeatherbrained villager hermit obsessed over chickens.\nRumor has it that Bob has visited the island for some\nreason.",
+    
+	"wytr.area.DurumIsles":"Durum Isles",
+
+	"wytr.area.BovineBarn":"Bovine Barn",
+
+	"wytr.area.Nemract":"Nemract",
+
+	"wytr.area.AncientNemract":"Ancient Nemract",
+	"wytr.area.AncientNemract.desc": "Hundreds of years ago, the original stone city of\nNemract was ravaged by a swarm of the undead. Now it is\nonly inhabited by the corpses of those who died that\nday.",
+    
+	"wytr.area.Savannah":"Savannah",
+	"wytr.area.Savannah.desc":"Wild ocelots inhabit this mostly-barren savannah, which\nleads to the Almuj desert. There is a town on the edge\nof the mountains, though few visit it.",
+    
+	"wytr.area.Bremminglar":"Bremminglar",
+
+	"wytr.area.AbandonedMines":"Abandoned Mines",
+
+	"wytr.area.TimeValley":"Time Valley",
+	"wytr.area.TimeValley.desc":"The ruins here have been present longer than the\nportal. Only one person alive today understands this\nstrange place. Time acts strangely here and it's\napparent that whoever made them were not human.",
+    
+	"wytr.area.TempoTown":"TempoÀÀÀTown",
+
+	"wytr.area.SanctuaryBridge":"Sanctuary Bridge",
+
+	"wytr.area.Selchar":"Selchar",
+	"wytr.area.Selchar.desc":"Founded in 970 AP after the waves calmed, this city\nbecame the bridge between Gavel and Wynn. It flourishes\nin trade and enjoys a safe haven from the dangers of\nboth provinces.",
+    
+	"wytr.area.SeavaleReef":"Seavale Reef",
+
+	"wytr.area.RottenPassage":"Rotten Passage",
+
+	"wytr.area.RootsofCorruption":"Roots of Corruption",
+	"wytr.area.RootsofCorruption.desc":"A thousand years ago, a group of emerald miners\nunearthed a mysterious portal. Unknowingly, they doomed\nthe province to centuries of war against the mysterious\nforce known as corruption.",
+    
+	"wytr.area.PiratesBay":"Pirate's Bay",
+	"wytr.area.PiratesBay.desc":"A massive pirate ship crashed here with such severity,\nthe hull was moulded into the cliffside. Some say that\nthere is still treasure hidden inside.",
+    
+	"wytr.area.Almuj":"Almuj",
+
+	"wytr.area.AlmujGreatRiver":"Almuj Great River",
+	"wytr.area.AlmujGreatRiver.desc":"Despite its barren surroundings, this river has\nsprouted various plant life. It flows straight into the\nRymek Canyon.",
+    
+	"wytr.area.WynnExcavationSiteA":"WynnExcavation Site A",
+	"wytr.area.WynnExcavationSiteA.desc":"WynnExcavation is a Gavel-owned company dedicated to\nuncovering the history of the Wynn Province. Here,\nthey've uncovered an ancient tomb from a lost empire.",
+    
+	"wytr.area.InvadedBarracks":"Invaded Barracks",
+	"wytr.area.InvadedBarracks.desc":"Once the barracks of the Almuj Army, it has been taken\nover by the traitorous rebel, Commander Takan.",
+    
+	"wytr.area.MageIsland":"Mage Island",
+
+	"wytr.area.HalfMoonIsland":"Half-Moon Island",
+
+	"wytr.area.Rymek":"Rymek",
+
+	"wytr.area.OwlTribe":"Owl Tribe",
+	"wytr.area.OwlTribe.desc":"The Owl Tribe is one of the two native tribes of the\nRymek Canyon. They have been at war with the Eagle\nTribe for years.",
+    
+	"wytr.area.EagleTribe":"Eagle Tribe",
+	"wytr.area.EagleTribe.desc":"The Eagle Tribe is one of the two native tribes of the\nRymek Canyon. They have been at war with the Owl Tribe\nfor years.",
+    
+	"wytr.area.IslesofFiction":"Isles of Fiction",
+
+	"wytr.area.AbandonedLumberYard":"Abandoned Lumber Yard",
+	"wytr.area.AbandonedLumberYard.desc":"Hundreds of years ago, the people working at this mill\ndied in the war. Even after the land was frozen over,\ntheir bodies still hunt those who draw near.",
+    
+	"wytr.area.GavelGate":"Gavel Gate",
+	"wytr.area.GavelGate.desc":"This massive doorway serves as the main entrance to the\nprovince of Gavel. Through it lies the quartz city of\nLlevigar.",
+    
+	"wytr.area.Llevigar":"Llevigar",
+
+	"wytr.area.Nesaak":"Nesaak",
+
+	"wytr.area.SunriseCanyon":"Sunrise Canyon",
+
+	"wytr.area.Bucie":"Bucie",
+
+	"wytr.area.KarocQuarry":"Karoc Quarry",
+
+	"wytr.area.RiverSage":"River Sage",
+
+	"wytr.area.Lusuco":"Lusuco",
+
+	"wytr.area.TowerofAscension":"Tower of Ascension",
+	"wytr.area.TowerofAscension.desc":"The tallest tower in the province, the Tower of\nAscension provides a challenge so daunting that it has\nbrought down even the strongest of warriors.",
+    
+	"wytr.area.NorthLusuco":"North Lusuco",
+
+	"wytr.area.IceIslands":"Ice Islands",
+	"wytr.area.IceIslands.desc":"Home to a nation of early seafarers, they have waged\nwar among each other for years, oblivious to the real\nwar happening on the mainland.",
+    
+	"wytr.area.PrisonofSouls":"Prison of Souls",
+
+	"wytr.area.WynnExcavationSiteB":"WynnExcavation Site B",
+	"wytr.area.WynnExcavationSiteB.desc":"No one knows what WynnExcavation is searching for at\nSite B, but rumors are circulating that they are trying\nto uncover something ancient and powerful.",
+    
+	"wytr.area.TheHouseofTwain":"The House of Twain",
+	"wytr.area.TheHouseofTwain.desc":"Once the home of the most gifted defenders of Wynn, it\nnow lies in ruins and haunted by the spirits that could\nnot move on.",
+    
+	"wytr.area.IbojuVillage":"Iboju Village",
+
+	"wytr.area.TheGreatBridge":"The Great Bridge",
+
+	"wytr.area.Olux":"Olux",
+
+	"wytr.area.WormHoles":"Worm Holes",
+
+	"wytr.area.OluxLumberYard":"Olux Lumber Yard",
+
+	"wytr.area.QuartzMansion":"Quartz Mansion",
+
+	"wytr.area.BobsTomb":"Bob's Tomb",
+	"wytr.area.BobsTomb.desc":"A year after Bob's disappearance, a tomb pertaining to\nthe resting place of Bob was found in 985 AP.",
+    
+	"wytr.area.ZhightIsland":"Zhight Island",
+
+	"wytr.area.Troms":"Troms",
+
+	"wytr.area.TromsCastle":"Troms Castle",
+
+	"wytr.area.SkiensIsland":"Skiens Island",
+
+	"wytr.area.VolcanicIsles":"Volcanic Isles",
+
+	"wytr.area.PlagueLaboratory":"Plague Laboratory",
+
+	"wytr.area.NestoftheGrootslangs":"Nest of the Grootslangs",
+
+	"wytr.area.EntamisVillage":"Entamis Village",
+
+	"wytr.area.FountainofYouth":"Fountain of Youth",
+
+	"wytr.area.DarkForestGate":"Dark Forest Gate",
+
+	"wytr.area.PirateCove":"Pirate Cove",
+
+	"wytr.area.MaroPeaks":"Maro Peaks",
+
+	"wytr.area.TribalSanctuary":"Tribal Sanctuary",
+
+	"wytr.area.IronGolemFactory":"Iron Golem Factory",
+
+	"wytr.area.DelnarManor":"Delnar Manor",
+
+	"wytr.area.CenterworldFortress":"Centerworld Fortress",
+
+	"wytr.area.Gelibord":"Gelibord",
+
+	"wytr.area.CastleDullahan":"Castle Dullahan",
+
+	"wytr.area.MagmastreamCore":"Magmastream Core",
+
+	"wytr.area.Taproot":"Taproot",
+
+	"wytr.area.Efilim":"Efilim",
+
+	"wytr.area.LightForestGate":"Light Forest Gate",
+	"wytr.area.LightForestGate.desc":"This serves as the gateway to the brilliant Light\nForest. Unlike the Dark Forest, this area hasn't been\nafflicted by the Decay, and remains as beautiful as\never.",
+    
+	"wytr.area.TheShiar":"The Shiar",
+
+	"wytr.area.CaritatMansion":"Caritat Mansion",
+
+	"wytr.area.LazarusPit":"Lazarus Pit",
+
+	"wytr.area.ChallengeoftheBlades":"Challenge of the Blades",
+
+	"wytr.area.AltarofSanctification":"Altar of Sanctification",
+
+	"wytr.area.TempleofLegends":"Temple of Legends",
+
+	"wytr.area.ArenaoftheLegends":"Arena of the Legends",
+
+	"wytr.area.TheForgery":"The Forgery",
+
+	"wytr.area.WynnExcavationSiteD":"WynnExcavation Site D",
+
+	"wytr.area.Cinfras":"Cinfras",
+
+	"wytr.area.TheGuildHall":"The Guild Hall",
+
+	"wytr.area.LetvusAirbase":"Letvus Airbase",
+
+	"wytr.area.SilverbullCompanyHeadquarters":"Silverbull Company Headquarters",
+
+	"wytr.area.LakeGylia":"Lake Gylia",
+
+	"wytr.area.MonumenttoSiegfried":"Monument to Siegfried",
+
+	"wytr.area.Lexdale":"Lexdale",
+
+	"wytr.area.LexdalePenitentiary":"Lexdale Penitentiary",
+
+	"wytr.area.HouseofTalor":"House of Talor",
+
+	"wytr.area.FaltachManor":"Faltach Manor",
+
+	"wytr.area.DeadIsland":"Dead Island",
+
+	"wytr.area.TheGatewaytoLight":"The Gateway to Light",
+
+	"wytr.area.TheQiraHive":"The Qira Hive",
+	"wytr.area.TheQiraHive.desc":"This towering nest is the Qira Hive, a challenge\nagainst the powerful creations of the enigmatic Qira.",
+    
+	"wytr.area.OzothsSpire":"Ozoth's Spire",
+	"wytr.area.OzothsSpire.desc":"Tainted by the flames, this spire serves as the\ndramatic trail up to the nest of the dragon herself,\nOzoth.",
+    
+	"wytr.area.Thanos":"Thanos",
+
+	"wytr.area.GyliaWatchTower":"Gylia Watch Tower",
+	"wytr.area.GyliaWatchTower.desc":"Founded after the Gerten War 200 years ago, the Gylia\nWatch have used this tower as their base, keeping an\neye on the Gerts to prevent another attack.",
+    
+	"wytr.area.GertCamp":"Gert Camp",
+
+	"wytr.area.CorkusCity":"Corkus City",
+
+	"wytr.area.AldoreiValley":"Aldorei Valley",
+
+	"wytr.area.AldoreiTown":"Aldorei Town",
+
+	"wytr.area.OrphionsNexusofLight":"Orphion's Nexus of Light",
+
+	"wytr.area.KitriosBarracks":"Kitrios Barracks",
+	"wytr.area.KitriosBarracks.desc":"These barracks are where the Cinfras Army is\npositioned, though lately their General has been acting\nsuspicious...",
+    
+	"wytr.area.Thesead":"Thesead",
+	"wytr.area.Thesead.desc":"Thesead is one of the more isolated cities of Gavel,\nbut its coal industry has kept it thriving. However,\nrecently the coal mines have been ridden with an\nunusual gas.",
+    
+	"wytr.area.BantisuAirTemple":"Bantisu Air Temple",
+
+	"wytr.area.CrystalFalls":"Crystal Falls",
+	"wytr.area.CrystalFalls.desc":"The elegant Crystal Falls decorate the scenery around\nthe dojo of Sensei Miyagi, a wise teacher who has\ntrained hundreds of apprentices.",
+
+	"wytr.area.FallenFactory":"Fallen Factory",
+
+	"wytr.area.AvosTerritory":"Avos Territory",
+
+	"wytr.area.Relos":"Relos",
+
+	"wytr.area.JofashDocks":"Jofash Docks",
+
+	"wytr.area.JofashTunnel":"Jofash Tunnel",
+
+	"wytr.area.Eltom":"Eltom",
+	"wytr.area.Eltom.desc":"The city of Eltom is the only human residence in Gavel.\nSince humans aren't permitted to settle in the\nprovince, it has remained hidden to outsiders.",
+
+	"wytr.area.MoltenHeightsGate":"Molten Heights Gate",
+
+	"wytr.area.DragonSkeleton":"Dragon Skeleton",
+
+	"wytr.area.FreezingHeights":"Freezing Heights",
+
+	"wytr.area.Maex":"Maex",
+
+	"wytr.area.Rodoroc":"Rodoroc",
+
+	"wytr.area.GeyserPit":"Geyser Pit",
+
+	"wytr.area.DeathsRealm":"Death's Realm",
+
+	"wytr.area.LegendaryIsland":"Legendary Island",
+	"wytr.area.LegendaryIsland.desc":"Home of the Legendary Challenge, a test for those who\nthink that they are the strongest in the world. It is\nnamed for its designer, the eccentric Dr. Legendary.",
+	
+	"wytr.area.KandonBeda":"Kandon-Beda",
+	"wytr.area.KandonBeda.desc":"A town built on the edge of a cliff, Kandon-Beda\nspecializes in air travel. It also houses a library for\nthose who wish to learn history.",
+	
+	"wytr.area.RaidersPort":"Raiders' Port",
+
+	"wytr.area.UpperMoltenHeights":"Upper Molten Heights",
+
+	"wytr.area.DogunsRetreat":"Dogun's Retreat",
+
+	"wytr.area.AerieoftheRecluse":"Aerie of the Recluse",
+
+	"wytr.area.Ahmsord":"Ahmsord",
+	
+	"wytr.area.TheVoid":"The Void",
+	
+	"wytr.area.VoidVillage":"Void Village",
+	
+	"wytr.area.TheOuterVoid":"The Outer Void",
+
+	"wytr.area.TheCanyonColossus":"The Canyon Colossus",
+
+	"wytr.area.??????????":"??????????",
+
+	"wytr.area.TheMoon":"The Moon",
+
+	"wytr.area.TownofLutho":"Town of Lutho",
+
+	"wytr.area.RuinedOlmicCity":"Ruined Olmic City",
+
+	"wytr.area.OlmicCathedral":"Olmic Cathedral",
+
+	"wytr.area.EyeballForest":"Eyeball Forest",
+
+	"wytr.area.CarnivorousCreature":"Carnivorous Creature",
+
+	"wytr.area.ToxicWastes":"Toxic Wastes",
+
+	"wytr.area.VoidValley":"Void Valley",
+
+	"wytr.area.DarkObelisk":"Dark Obelisk",
+
+	"wytr.area.TheEldritchOutlook":"The Eldritch Outlook",
+
+	"wytr.area.PortaltoDern":"Portal to Dern",
+
+	"wytr.area.???":"???",
+
+	"wytr.area.BottomlessPit":"Bottomless Pit"
+}

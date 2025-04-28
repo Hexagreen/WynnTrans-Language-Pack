@@ -1,0 +1,14 @@
+{
+	"wytr.scoreboard.objectiveDone":"All done",
+	"wytr.scoreboard.starterObjective":"Objectives:",
+	"wytr.scoreboard.dailyObjective":"Daily Objective:",
+	"wytr.scoreboard.guildObjective":"Guild Obj: %s",
+	"wytr.scoreboard.guildObjective.complete":"Collect your rewards\n with %s",
+	"wytr.scoreboard.contentTrack":"Tracked %s:",
+	"wytr.scoreboard.contentTrack.timer":"(%s left)",
+	"wytr.scoreboard.worldEvent":"World Event:",
+	"wytr.scoreboard.worldEvent.time":"Time Limit: %s",
+	"wytr.scoreboard.worldEvent.wave":"Waves Remaining: %s",
+	"wytr.scoreboard.worldEvent.target":"Targets Remaining: %s",
+	"wytr.scoreboard.party":"Party:%s"
+}

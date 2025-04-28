@@ -1,0 +1,14 @@
+{
+	"wytr.scoreboard.objectiveDone":"완료",
+	"wytr.scoreboard.starterObjective":"활동 목표:",
+	"wytr.scoreboard.dailyObjective":"일일 목표:",
+	"wytr.scoreboard.guildObjective":"길드 주간 목표: %s",
+	"wytr.scoreboard.guildObjective.complete":"%s 명령어로\n보상을 수령하세요",
+	"wytr.scoreboard.contentTrack":"추적 중인 %s:",
+	"wytr.scoreboard.contentTrack.timer":"(%s 남음)",
+	"wytr.scoreboard.worldEvent":"월드 이벤트:",
+	"wytr.scoreboard.worldEvent.time":"남은 시간: %s",
+	"wytr.scoreboard.worldEvent.wave":"남은 웨이브: %s",
+	"wytr.scoreboard.worldEvent.target":"남은 목표: %s",
+	"wytr.scoreboard.party":"파티:%s"
+}

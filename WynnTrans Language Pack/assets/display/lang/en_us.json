@@ -1,0 +1,89 @@
+{
+	"wytr.display.dodged":"Dodged",
+	
+	"wytr.display.combatXp":"+%1$s Combat XP",
+	"wytr.display.combatXp.shared":"[Shared]",
+	"wytr.display.professionXp":"+%1$s %2$s XP",
+	
+	"wytr.display.boothSetup":"Click §7to set up booth",
+	"wytr.display.boothTitle":"%1$s's §7Shop",
+	
+	"wytr.display.crateOpen":"Click to Open",
+	"wytr.display.crateReward":"%1$s Reward",
+	
+	"wytr.display.summons":"%1$s's %2$s",
+	"wytr.display.summons.duration":"%1$s's %2$s\n%3$s",
+	"wytr.display.mobTotem":"%1$s's§6§l Mob Totem\n%3$s",
+	"wytr.display.archerTrap":"Arming...",
+	"wytr.display.archerTrap.charge":"%1$s Damage",
+	"wytr.display.shamanTotem":"%1$s's Totem\n%2$s",
+	
+	"wytr.display.lootChest":"Loot Chest %1$s",
+	"wytr.display.lockedChest":"Locked %1$s",
+	"wytr.display.lockedChest.slayMob":"§c§lSLAY!§r Defeat %1$s Mobs",
+	"wytr.display.lockedChest.slayHead":"§c§lSLAY!§r Defeat %1$s",
+	"wytr.display.lockedChest.slayTarget":"§c§lSLAY!§r Defeat %2$s %1$s",
+	
+	"wytr.display.worldEvent.timer":"Starts in %1$s",
+	"wytr.display.worldEvent.timeLeft":"%1$s left",
+	"wytr.display.worldEvent.leftTarget":"%1$s target remains",
+	"wytr.display.41d39ed2088153b062ca97d41c7ee7ccbd7a4172":"Prepare to start",
+	"wytr.display.6410456144bf4aabad99684e27628c469b7047ca":"Event Completed",
+	"wytr.display.8b9b0259a469821a1e228b9923fd3a449f9fd92a":"No targets remain",
+	"wytr.display.41f5dd1200bc49d3e835ef3f506371648948de3a":"Event Rewards\n%s",
+	"wytr.display.41f5dd1200bc49d3e835ef3f506371648948de3a.1_db60":"Click to open!",
+	"wytr.display.8f387a480b70e90712749fb525d53fce920c8eb8":"Event Failed",
+	"wytr.display.c7d00994e257548d17a1a21ac2bb892999d06232":"Everyone died",
+	
+	"wytr.display.caveProgress":"Progress",
+	"wytr.display.caveComplete":"Completed",
+	"wytr.display.caveQuality":"Loot Quality",
+	"wytr.display.caveReward":"%1$s Rewards\n§7Interact to Open",
+
+	"wytr.display.dungeon":"%1$s\n\n%2$s      Level: %3$s",
+	
+	"wytr.display.killCounter":"Kill %1$s %2$s\nto open door",
+
+	"wytr.display.raidKeeper.cost":"Cost: %1$s",
+	"wytr.display.rewardChest":"§fNew rewards in %1$s\n\n§r§lCLICK TO VIEW",
+	
+	"wytr.display.62e99376ea6e22e3fe2946366a002df0359f4f8c":"Challenge Rewards\n§7Click to open!",
+
+	"wytr.display.guildBanner.controlBy":"Controlled by %1$s",
+	
+	"wytr.display.tradeMarket":"Trade Market",
+	"wytr.display.tradeMarket.desc":"Buy & sell items\non the market",
+	"wytr.display.housingMaster":"Housing Master",
+	"wytr.display.housingMaster.desc":"Buy blocks and\nmanage your island",
+	"wytr.display.blacksmith.desc":"Sell and repair items",
+	"wytr.display.partyFinder.desc":"Find a party or queue for a raid",
+	
+	"wytr.display.post.slay":"Slaying Post",
+	"wytr.display.post.slay.req":"[Combat Lv. %1$s]",
+	"wytr.display.post.gather":"Gathering Post",
+	"wytr.display.post.gather.req":"[%1$s Lv. %2$s]",
+	
+	"wytr.display.gathering":"[%1$s]",	
+	"wytr.display.gathering.mining":"|||Mining|||",
+	"wytr.display.gathering.chopping":"|||Chopping|||",
+	"wytr.display.gathering.fishing":"|||Fishing|||",
+	"wytr.display.gathering.farming":"|||Farming|||",
+	"wytr.display.gatheringNode.getIngot":"Left-Click for Ingot",
+	"wytr.display.gatheringNode.getGem":"Right-Click for Gem",
+	"wytr.display.gatheringNode.getWood":"Left-Click for Wood",
+	"wytr.display.gatheringNode.getPaper":"Right-Click for Paper",
+	"wytr.display.gatheringNode.getString":"Left-Click for String",
+	"wytr.display.gatheringNode.getGrains":"Right-Click for Grains",
+	"wytr.display.gatheringNode.getOil":"Left-Click for Oil",
+	"wytr.display.gatheringNode.getMeat":"Right-Click for Meat",
+	
+	"wytr.display.craftingStation":"Crafting Station",
+	"wytr.display.craftingStation.cooking":"Food",
+	"wytr.display.craftingStation.jeweling":"Accessories",
+	"wytr.display.craftingStation.scribing":"Scrolls",
+	"wytr.display.craftingStation.tailoring":"Boots and Pants",
+	"wytr.display.craftingStation.weaponsmithing":"Spears and Daggers",
+	"wytr.display.craftingStation.armouring":"Helmets and Chestplates",
+	"wytr.display.craftingStation.woodworking":"Bows, Wands and Reliks",
+	"wytr.display.craftingStation.alchemism":"Potions"
+}
