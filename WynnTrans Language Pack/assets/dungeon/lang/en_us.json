@@ -1,0 +1,38 @@
+{
+	"wytr.area.DecrepitSewersEntrance":"DecrepitÀÀÀSewersÀÀÀEntrance",
+	"wytr.dialog.???.1.1.4794f3f2":"You dare enter these sewers, human? These pipes once hid the civilians of Ragni during raids... Now they just hold corpses.",
+	"wytr.sign.6af48214846d2b6e37fc67cb.1":". .. . ' ",
+	"wytr.sign.6af48214846d2b6e37fc67cb.2":".. ",
+	"wytr.sign.6af48214846d2b6e37fc67cb.3":"'.",
+	"wytr.sign.82f0ba14cd8746e4bfca4211.1":"Witherhead",
+	"wytr.sign.82f0ba14cd8746e4bfca4211.2":".",
+	"wytr.sign.a1a70cd0f4173ca9a26f8289.1":". ",
+	"wytr.sign.a1a70cd0f4173ca9a26f8289.2":"' #.. .#",
+	"wytr.sign.2584d3f6d41295e1b60a394e.1":"di. ''d th ..' ",
+	"wytr.sign.2584d3f6d41295e1b60a394e.2":"is",
+	"wytr.sign.7f65b35fe423569093532c0b.1":".'' , she ",
+	"wytr.sign.7f65b35fe423569093532c0b.2":"leaves",
+	"wytr.sign.40a75f264b7c5155365e919b.1":".''', ., them . ",
+	"wytr.sign.4ff99d05f72be738c17cbaa8.1":".    - to ",
+	"wytr.sign.4ff99d05f72be738c17cbaa8.2":"wither .",
+	"wytr.sign.2cf9a9468c4336090428f345.1":"away '' . ",
+	"wytr.sign.2cf9a9468c4336090428f345.2":"'.",
+	"wytr.sign.1554fa55d70204bb4ab22f4d.1":"Boss Room",
+	"wytr.sign.705850868a1ce950ec592ea0.1":"Witherhead",
+
+	"wytr.area.InfestedPitEntrance":"InfestedÀÀÀPitÀÀÀEntrance",
+	"wytr.dialog.???.2.1.ad179f03":"Oh, it seems I have a guest. You're just in time for dinner... hehe..",
+	"wytr.dialog.???.2.2.c3f9c526":"My poor babies are starving. But what shall they feast on? How about... you?",
+	"wytr.name.Arakadicus":"Arakadicus",
+	"wytr.dialog.Arakadicus.1.1.0d0d69bb":"You've come so far, haven't you? And my babies are just so hungry... You'll make a fine meal for them... hehehe...",
+	"wytr.sign.f1d31272e2d41ec9f23388b5.1":"Arakadicus",
+	"wytr.dialog.Arakadicus.2.1.6da65cc0":"Ah, the main course has arrived. You look so good, I think I'll have a taste of you myself!",
+	
+	"wytr.area.UnderworldCryptEntrance":"UnderworldÀÀÀCryptÀÀÀEntrance",
+	
+	"wytr.area.TimelostSanctumEntrance":"TimelostÀÀÀSanctumÀÀÀEntrance",
+	
+	"wytr.area.SandSweptTombEntrance":"Sand-SweptÀÀÀTombÀÀÀEntrance",
+	
+	"wytr.area.IceBarrowsEntrance":"IceÀÀÀBarrowsÀÀÀEntrance"
+}

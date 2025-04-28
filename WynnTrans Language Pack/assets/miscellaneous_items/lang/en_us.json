@@ -1,0 +1,5 @@
+{
+	"wytr.item.misc.AbilityShard":"Ability Shard",
+	"wytr.item.misc.AbilityShard.desc":"Use this to reset your\n§fAbility Tree §7while in a town.",
+	"wytr.item.misc.AbilityShard.desc.using":"A shard is already\npresent on this socket"
+}

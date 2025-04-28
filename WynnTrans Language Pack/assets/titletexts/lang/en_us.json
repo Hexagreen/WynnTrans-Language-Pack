@@ -1,0 +1,27 @@
+{
+	"wytr.title.c0e45706224e0cef3fa03e6665ff5d0278d391f2":"Queueing for %s%s",
+	"wytr.title.620dfebdb09db785d9eaf9e71eacd881d4abe44c":"You are in position #%s",
+	
+	"wytr.title.emeraldPouch":"+%s§7 Emeralds §ato pouch",
+	"wytr.title.ingredientPouch":"+%1$s %2$s to pouch",
+	
+	"wytr.title.1c86acbc2270ca86e740a41372967f2c279f5a86":"Area Discovered",
+	
+	"wytr.title.01cf5c0728832dff777c2b722b76b5a2c27d12fe":"Thank you!",
+	"wytr.title.3b805cfd428f196f5f9e8a42dec0350ef330e150":"Your purchase has been processed.",
+	
+	"wytr.title.crateTier":"%s Tier",
+	"wytr.title.62db68cd5f906d7797601a37108890bda14e4c00":"Click to stop the items",
+	"wytr.title.e7ed495b1143fc00100b620cfc1eed7e9a9e0e40":"Slowing down...",
+	
+	"wytr.title.af9cf3722f88e26b34fd5339e80318d0c8c8c918":"Move to continue",
+	"wytr.title.12acd68a3bb55e8cfef3077df2c260440932d3a3":"Joining queue in %s seconds",
+	"wytr.title.027458bac8889d9764dc7436165230702d2b679d":"Joining queue now",
+	"wytr.title.1f444f3609f5ac16d09d92cb1406898ce2d5eac5":"You are AFK",
+	"wytr.title.100fe0ac0d277945298ecfc2218b4fc1a628109e":"Move to rejoin",
+	
+	"wytr.title.b9647a985c4064fabd1217d763f900794d51e309":"Starts in %s",
+	"wytr.title.65ebfb96393e80956c1602c8017c8e2b5c8ec9eb":"Next wave in %s",
+	"wytr.title.6410456144bf4aabad99684e27628c469b7047ca":"Event Completed",
+	"wytr.title.8b9b0259a469821a1e228b9923fd3a449f9fd92a":"No targets remain"
+}
