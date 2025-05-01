@@ -16,7 +16,7 @@
     "wytr.area.DetlasSuburbs.desc":"안정적인 식량 공급을 위해 라그니와\n데틀라스 군에게 엄중히 보호받는 지역입니다.",
     
 	"wytr.area.Detlas":"데틀라스",
-    
+
 	"wytr.area.Maltic":"말틱",
     "wytr.area.Maltic.desc":"윈 지역에 빌리저들이 처음으로 지은 마을입니다.\n마을 해안에는 100년 전에 \n난파한 배가 남아있습니다.",
     
@@ -65,8 +65,9 @@
 	"wytr.area.SeavaleReef":"산호초 계곡",
     
 	"wytr.area.RottenPassage":"썩어든 통로",
-    
-	"wytr.area.RootsofCorruption":"커럽션 뿌리",
+
+	"wytr.area.RootsofCorruption":"커럽션의 근원",
+
     "wytr.area.RootsofCorruption.desc":"천 년 전, 에메랄드 광부들이 신비한 포탈을\n발견했습니다. 그들은 모르는 새에\n지역 전체를 수 세기의 파멸로 이끌었습니다.\n그 파멸의 힘을 우리는 커럽션이라 부릅니다.",
     
 	"wytr.area.PiratesBay":"해적의 만",
@@ -268,8 +269,8 @@
     "wytr.area.CrystalFalls.desc":"수백 명의 제자를 가르친 현명한 스승,\n미야기 선생의 도장의 풍경을 장식하는\n아름다운 폭포입니다.",
     
 	"wytr.area.FallenFactory":"무너진 공장",
-    
-	"wytr.area.AvosTerritory":"아보스 영역",
+
+	"wytr.area.AvosTerritory":"아보 자치구",
     
 	"wytr.area.Relos":"렐로스",
     
@@ -292,7 +293,7 @@
     
 	"wytr.area.GeyserPit":"간헐천 구덩이",
     
-	"wytr.area.DeathsRealm":"죽음의 영역",
+	"wytr.area.DeathsRealm":"죽음의 세계",
     
 	"wytr.area.LegendaryIsland":"레전더리 아일랜드",
 	"wytr.area.LegendaryIsland.desc":"이 세상의 정상에 족적을 남기고자하는 강자들을\n시험하는 레전더리 챌린지의 땅입니다. 섬의 이름은\n설계자인 괴짜 박사 레전더리의 이름에서 왔습니다.",
@@ -304,17 +305,23 @@
     
 	"wytr.area.UpperMoltenHeights":"몰튼 고원 상부",
     
-	"wytr.area.DogunsRetreat":"Dogun's Retreat",
+	"wytr.area.DogunsRetreat":"도군의 은신처",
     
-	"wytr.area.AerieoftheRecluse":"Aerie of the Recluse",
+	"wytr.area.AerieoftheRecluse":"은둔자의 에어리",
     
 	"wytr.area.Ahmsord":"암소드",
+	
+	"wytr.area.TheVoid":"공허",
+	
+	"wytr.area.VoidVillage":"공허 마을",
+	
+	"wytr.area.TheOuterVoid":"공허 외곽",
     
 	"wytr.area.TheCanyonColossus":"협곡의 거상",
     
 	"wytr.area.??????????":"??????????",
     
-	"wytr.area.TheMoon":"The Moon",
+	"wytr.area.TheMoon":"달",
     
 	"wytr.area.TownofLutho":"루토 마을",
     
@@ -324,15 +331,15 @@
     
 	"wytr.area.EyeballForest":"눈깔 숲",
     
-	"wytr.area.CarnivorousCreature":"Carnivorous Creature",
+	"wytr.area.CarnivorousCreature":"육식성 크리쳐",
     
-	"wytr.area.ToxicWastes":"Toxic Wastes",
+	"wytr.area.ToxicWastes":"독성 폐기물 지대",
     
 	"wytr.area.VoidValley":"공허 계곡",
     
 	"wytr.area.DarkObelisk":"검은 오벨리스크",
     
-	"wytr.area.TheEldritchOutlook":"The Eldritch Outlook",
+	"wytr.area.TheEldritchOutlook":"엘드리치 아웃룩",
     
 	"wytr.area.PortaltoDern":"던으로 향하는 문",
     

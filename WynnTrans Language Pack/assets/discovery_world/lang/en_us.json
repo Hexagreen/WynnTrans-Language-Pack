@@ -1,11 +1,11 @@
 {
 	"wytr.area.Ragni":"Ragni",
-	
+
 	"wytr.area.EmeraldTrail":"Emerald Trail",
 	"wytr.area.EmeraldTrail.desc":"The trail through Nivla Woods to Detlas, the central\ncity of the Wynn Province.",
     
 	"wytr.area.KatoaRanch":"Katoa Ranch",
-	
+
 	"wytr.area.NivlaWoods":"Nivla Woods",	
 	"wytr.area.NivlaWoods.desc":"This forest has been infested with giant, mutant\narachnids for countless years. They serve as the\ngreatest obstacle for adventurers on their way to\nDetlas.",
     
@@ -16,7 +16,7 @@
 	"wytr.area.DetlasSuburbs.desc":"This area is heavily defended by the armies of Detlas\nand Ragni to ensure food production continues.",
     
 	"wytr.area.Detlas":"Detlas",
-	
+
 	"wytr.area.Maltic":"Maltic",
 	"wytr.area.Maltic.desc": "The first town founded by Villagers in the Wynn\nprovince. Maltic's beach is the site of a shipwreck\nthat crashed upon its shores 100 years ago.",
     
@@ -309,6 +309,12 @@
 	"wytr.area.AerieoftheRecluse":"Aerie of the Recluse",
 
 	"wytr.area.Ahmsord":"Ahmsord",
+	
+	"wytr.area.TheVoid":"The Void",
+	
+	"wytr.area.VoidVillage":"Void Village",
+	
+	"wytr.area.TheOuterVoid":"The Outer Void",
 
 	"wytr.area.TheCanyonColossus":"The Canyon Colossus",
 

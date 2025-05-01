@@ -448,6 +448,9 @@
 	"wytr.dungeon.underworldCrypt":"지하 영혼 안치소",
 	"wytr.dungeon.underworldCrypt.bossReward":"카론의 뇌",
 	"wytr.dungeon.underworldCrypt.fragment":"지하 영혼 안치소의 증표",
+	"wytr.dungeon.lostSanctuary":"잊혀진 성역",
+	"wytr.dungeon.lostSanctuary.bossReward":"가로스의 숨결",
+	"wytr.dungeon.lostSanctuary.fragment":"잊혀진 성역의 증표",
 	"wytr.dungeon.timelostSanctum":"잊혀진 시간의 성역",
 	"wytr.dungeon.timelostSanctum.bossReward":"가로스의 기록",
 	"wytr.dungeon.timelostSanctum.fragment":"잊혀진 시간의 성역의 증표",
@@ -466,9 +469,10 @@
 	"wytr.dungeon.fallenFactory":"몰락한 공장",
 	"wytr.dungeon.fallenFactory.bossReward":"안티키테라의 슈퍼컴퓨터 칩",
 	"wytr.dungeon.fallenFactory.fragment":"몰락한 공장의 증표",
-	"wytr.dungeon.eldritchOutlook":"섬뜩한 공간",
+	"wytr.dungeon.eldritchOutlook":"엘드리치 아웃룩",
 	"wytr.dungeon.eldritchOutlook.bossReward":"주시자의 동공",
-	"wytr.dungeon.eldritchOutlook.fragment":"섬뜩한 공간의 증표",
+	"wytr.dungeon.eldritchOutlook.fragment":"엘드리치 아웃룩의 증표",
+
 
 	"wytr.raid.NestoftheGrootslangs":"그루츨랑의 둥지",
 
