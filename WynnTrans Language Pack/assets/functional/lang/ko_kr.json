@@ -82,7 +82,7 @@
 
 	"wytr.func.skipTutorial":"%s 을 입력하면 튜토리얼을 스킵할 수 있습니다. 스킵 시 튜토리얼에서 제공되는 소정의 아이템을 얻을 수 없습니다.",
 
-	"wytr.func.pouchSold":"제작재료 파우치의 재료 %1$s 종을 판매하여 %2$s 를 받았습니다.",
+	"wytr.func.pouchSold":"제작 부재료 파우치의 재료 %1$s 종을 판매하여 %2$s 를 받았습니다.",
 
 	"wytr.func.dungeonCompleted":"축하합니다! %s 던전을 돌파했습니다!",
 	"wytr.func.dungeonCompleted.exp":"%s 경험치",
@@ -121,7 +121,7 @@
 	"wytr.func.craftingXP":"[%s %s 경험치] %s",
 
 	"wytr.func.blacksmith":"대장장이",
-	"wytr.func.blacksmith.no":"이 아이템은 받지 못하겠는데! 내가 취급하는 건 무기, 액세서리, 갑옷, 제작재료, 자원, 소모품, 톰, 도구, 제작 아이템 뿐이야.",
+	"wytr.func.blacksmith.no":"이 아이템은 받지 못하겠는데! 내가 취급하는 건 무기, 액세서리, 갑옷, 제작 재료, 자원, 소모품, 톰, 도구, 제작 아이템 뿐이야.",
 	"wytr.func.blacksmith.sold":"아이템 %1$s 개 받았어\n전부 다 해서 %2$s로 살게",
 	"wytr.func.blacksmith.repair":"%1$s을 %2$s로 수리했어",
 
@@ -146,7 +146,6 @@
 
 	"wytr.func.dailyReward":"[일일 접속 보상: ",
 	"wytr.func.dailyReward.emerald":"§a에메랄드 %s개",
-	"wytr.func.dailyReward.and":", ",
 	"wytr.func.dailyReward.item":"§b아이템 %s개",
 	"wytr.func.crateReward_1":" 님이 크레이트에서 ",
 	"wytr.func.crateReward_2":" 를 얻었습니다. 크레이트는 상점에서 구매할 수 있습니다. ",
@@ -169,14 +168,14 @@
 	"wytr.func.thanked":"%s 님이 당신의 Wynncraft 지원에 감사를 표했습니다!",
 	"wytr.text.1deb6b78af1cb5aa9a076163438d16e625c8879c":"스스로에게 감사를 표했습니다. 쓸쓸하게도!",
 
+	"wytr.func.skillCasted":"%1$s",
 	"wytr.func.skillRefreshed":"%1$s 재사용 가능",
 	"wytr.func.potionEffect":"[%1$s %2$s %3$s]",
 	"wytr.func.manaPotion":"[✺ %2$s 간 %1$s 마나/초]",
-	"wytr.func.speedBoost":"$s 님에게서 이동 속도 증가 %s 버프를 받았습니다.",
+	"wytr.func.speedBoost":"%s 님에게서 이동 속도 증가 %s 버프를 받았습니다.",
 	"wytr.func.speedBoost.self":"이동 속도 증가 %s",
 	"wytr.func.resistance":"%1$s 님에게서 %2$s 버프를 받았습니다.",
 	"wytr.func.resistance.res":"%1$s 저항",
-	"wytr.func.resistance.and":", ",
 	"wytr.func.resistance.str":"%1$s 힘",
 
 	"wytr.func.partyJoined":"파티에 %s 님이 가입했습니다!",
@@ -220,6 +219,7 @@
 	"wytr.func.classChange":"캐릭터를 %s로 성공적으로 변경했습니다.",
 
 	"wytr.func.quickTrade":"\n%1$s 님이 거래를 요청했습니다!\n%2$s 를 입력하거나, 클릭하여 거래를 수락하세요\n",
+	"wytr.func.quickDuel":"%s [레벨 %s] 님이 대전을 요청했습니다! %s 를 입력하거나 클릭하여 수락하세요.",
 
 	"wytr.func.worldEvent.start":"%1$s 월드 이벤트가 %2$s 뒤 시작됩니다! %3$s %4$s",
 	"wytr.func.worldEvent.distance":"(거리: %1$s 블럭)",
@@ -259,5 +259,10 @@
 	"wytr.func.CLICK_TO_UNTRACK":"클릭하여 추적 중지",
 	"wytr.func.currentSelection":"현재 선택됨",
 	"wytr.func.clickToOpen":"클릭하여 열기",
-	"wytr.func.clickToRemove":"클릭하여 제거"
+	"wytr.func.clickToRemove":"클릭하여 제거",
+	"wytr.func.clickToConfirm":"한 번 더 클릭하여 확인",
+	"wytr.func.rClickToUse":"우클릭으로 사용",
+	"wytr.func.clickToBuy":"§f클릭§7하여 §f1§7개 구매",
+	"wytr.func.clickToBuy5":"§f시프트 + 좌클릭§7하여 §f5§7개 구매",
+	"wytr.func.clickToBuyAll":"§f시프트 + 우클릭§7하여 §f전부 §7구매"
 }

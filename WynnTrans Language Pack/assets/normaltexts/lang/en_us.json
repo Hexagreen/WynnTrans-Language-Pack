@@ -48,6 +48,7 @@
 	"wytr.text.ac6d820af2b7c4f130deabe637b404f9b97a2382":"Some of the withdrawn items were deposited into your Account Bank",
 
 	"wytr.text.397fbe5fe1f42b18e2047e615f831b24b2e18008":"Online §aFriends:",
+	"wytr.text.468b55c24324a07b95b75cb2cf170136db66eb66":"Please write in chat the username of the player you want to\n recruit, or cancel.",
 	
 	"wytr.text.ff3231ef2347ea905c2b5e3d3c24e2312c8af467":"You must be in a party to invite.",
 	"wytr.text.27b881defb6b075a752e18ef2f0bee3c2051b10f":"You must be in a party to list.",
@@ -126,6 +127,7 @@
 	"wytr.text.b1815319fec882eec841f9074b7d595847e2e74a.0":"Visit ",
 	"wytr.text.b1815319fec882eec841f9074b7d595847e2e74a.1":"the store",
 	"wytr.text.b1815319fec882eec841f9074b7d595847e2e74a.2":" to buy your own",
+	"wytr.text.71a848a5a36a26b50d4589385ec9eeda993149a0":"§3Visit %s§3to get your own!",
 
 	"wytr.text.8702377f8c7f3a4ffe3aa726767467d27fcdd1d2":"\nType in chat what the new name should be or 'cancel' to abandon: (18 characters max)",
 	"wytr.text.e710c995289de62989f29629fde757f39f61a2ce":"\nType in chat what the new description should be or 'cancel' to abandon: (90 characters max)",
@@ -175,6 +177,8 @@
 	"wytr.display.81e9a1d542907d1d57bbb362066c2c3c8133a574":"You must have a §6CHAMPION§c rank or higher to use this!",
 	"wytr.display.ab2e048e1a70db537942fcb81df9e21e1a9939c3":"Click §7to go to your housing plot",
 	"wytr.display.695c8b483804337a6d4e5a9aa241765202a061a0":"Click§7 here to leave",
+	"wytr.display.fde612f7a6f3e7abe3b89b52aeef33e90c448701":"Housing Island\n§7by %s",
+	"wytr.display.dce0f005a68a0e8d78fcd972b332326e25f80aab":"Thanks!\n%s Upvote",
 	"wytr.display.e48583bb56e08ca0688ba898a21dc16625585963":"Type §f/housing edit§7 to edit",
 	"wytr.display.cf7602f8719910e31bccab97d54648b9014aa73a":"Type §b/housing edit§7 to edit",
 	"wytr.display.eef5be2acdac03c65c0aee2448d0d7291ac09b19":"Block Bank",

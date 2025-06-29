@@ -145,8 +145,7 @@
 	"wytr.func.serverRestart":"This world will restart in %1$s.",
 
 	"wytr.func.dailyReward":"[Daily Rewards: ",
-	"wytr.func.dailyReward.emerald":"§a%1$s emeralds ",
-	"wytr.func.dailyReward.and":"and ",
+	"wytr.func.dailyReward.emerald":"§a%1$s emeralds",
 	"wytr.func.dailyReward.item":"§b%2$s items",
 	"wytr.func.crateReward_1":" has gotten a ",
 	"wytr.func.crateReward_2":" from their crate. Buy your own at ",
@@ -169,6 +168,7 @@
 	"wytr.func.thanked":"%s said thank you for supporting Wynncraft!",
 	"wytr.text.1deb6b78af1cb5aa9a076163438d16e625c8879c":"You have immodestly thanked yourself!",
 
+	"wytr.func.skillCasted":"%1$s spell cast!",
 	"wytr.func.skillRefreshed":"%1$s has been refreshed!",
 	"wytr.func.potionEffect":"[%1$s %2$s for %3$s]",
 	"wytr.func.manaPotion":"[✺ %s mana/s for %s]",
@@ -176,7 +176,6 @@
 	"wytr.func.speedBoost.self":"%s speed boost.",
 	"wytr.func.resistance":"%1$s has given you %2$s.",
 	"wytr.func.resistance.res":"%1$s resistance",
-	"wytr.func.resistance.and":" and ",
 	"wytr.func.resistance.str":"%1$s strength",
 
 	"wytr.func.partyJoined":"%s has joined your party, say hello!",
@@ -220,6 +219,7 @@
 	"wytr.func.classChange":"Your character's class has been successfully changed to %s",
 
 	"wytr.func.quickTrade":"\n%1$s would like to trade!\nType or click on %2$s to accept\n",
+	"wytr.func.quickDuel":"%s [Lv. %s] would like to duel! Type %s to accept.",
 
 	"wytr.func.worldEvent.start":"The %1$s World Event starts in %2$s! %3$s %4$s",
 	"wytr.func.worldEvent.distance":"(%1$s blocks away)",
@@ -259,5 +259,10 @@
 	"wytr.func.CLICK_TO_UNTRACK":"CLICK TO UNTRACK",
 	"wytr.func.currentSelection":"Currently Selected",
 	"wytr.func.clickToOpen":"Click to Open",
-	"wytr.func.clickToRemove":"Click to Remove"
+	"wytr.func.clickToRemove":"Click to Remove",
+	"wytr.func.clickToConfirm":"Click again to confirm",
+	"wytr.func.rClickToUse":"Right-Click to use",
+	"wytr.func.clickToBuy":"§fClick §7to buy §f1",
+	"wytr.func.clickToBuy5":"§fShift + Left-Click §7to buy §f5",
+	"wytr.func.clickToBuyAll":"§fShift + Right-Click §7to buy §fAll"
 }
