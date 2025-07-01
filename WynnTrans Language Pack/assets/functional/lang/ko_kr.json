@@ -252,6 +252,9 @@
 	"wytr.func.lootrun.endSummary.stat.kill":"처치한 몹 %s마리",
 	"wytr.func.lootrun.endSummary.stat.chest":"상자 개봉 %s회",
 	"wytr.func.lootrun.endSummary.stat.challenge":"완수한 도전 %s회",
+	
+	"wytr.func.wynntilsCompat.trackedWorldEventTimer":"(시작까지 %s)",
+	"wytr.func.wynntilsCompat.sharedGearStat.fromChat":"공유된 장비 정보",
 
 	"wytr.func.clickForOptions":"클릭하여 메뉴 열기",
 	"wytr.func.clickToTrack":"클릭하여 추적",

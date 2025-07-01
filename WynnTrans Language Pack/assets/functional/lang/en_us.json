@@ -252,6 +252,9 @@
 	"wytr.func.lootrun.endSummary.stat.kill":"Mobs Killed: %s",
 	"wytr.func.lootrun.endSummary.stat.chest":"Chests Open: %s",
 	"wytr.func.lootrun.endSummary.stat.challenge":"Challenges Completed: %s",
+	
+	"wytr.func.wynntilsCompat.trackedWorldEventTimer":"(%s left)",
+	"wytr.func.wynntilsCompat.sharedGearStat.fromChat":"From chat",
 
 	"wytr.func.clickForOptions":"Click for Options",
 	"wytr.func.clickToTrack":"Click to Track",
